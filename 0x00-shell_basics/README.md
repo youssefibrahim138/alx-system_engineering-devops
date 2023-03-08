@@ -6,3 +6,4 @@ ls -l -a Display current directory contents, including hidden files
 ls -n -a Display current directory in long format with hidden files and user ID
 mkdir command used to make directory
 mv command used to move or rename files or direcotries
+rm command used to remove a file or direcotries
